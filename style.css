@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header_logo a {
+    color: darkseagreen;
+}
+
+.header_logo a:hover {
+    color: darkblue;
+    transition: all .5s ease;
+}
