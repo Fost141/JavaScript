@@ -1,0 +1,14 @@
+Git Commands
+
+Start:
+git init
+git config --local user.name "Georg" // Локальная настройка
+git config --global user.name "Georg" // Глобальная настройка
+
+Work:
+git add -A
+git commit -a -m"Название коммита" // Добавление коммита
+git push // Выкладывает на гитхаб
+
+// При подключении к новому репозиторию на GitHub команды там прописаны
+
