@@ -1,6 +1,6 @@
 Git Commands
 
-!!! Установить Git
+!!! Установить Git - https://git-scm.com/
 
 Start:
 git init
