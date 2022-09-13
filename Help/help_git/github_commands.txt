@@ -1,5 +1,7 @@
 Git Commands
 
+!!! Установить Git
+
 Start:
 git init
 git config --local user.name "Georg" // Локальная настройка имени
