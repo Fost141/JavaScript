@@ -2,8 +2,9 @@ Git Commands
 
 Start:
 git init
-git config --local user.name "Georg" // Локальная настройка
-git config --global user.name "Georg" // Глобальная настройка
+git config --local user.name "Georg" // Локальная настройка имени
+git config --global user.name "Georg" // Глобальная настройка имени
+git config --local user.email "example@gmail.com" // Локальная настройка почты
 
 Work:
 git add -A
