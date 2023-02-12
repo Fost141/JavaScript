@@ -98,6 +98,7 @@
 // console.log(arrObj.abc.def.ghi.dt[1]);
 
 // const b = 'b';
+// console.log(b);
 // arrObj[b] = '1234';
 // console.log(arrObj.b);
 // console.log(arrObj[b]);
