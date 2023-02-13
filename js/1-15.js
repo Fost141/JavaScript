@@ -95,7 +95,7 @@
 //     }
 // };
 
-// console.log(arrObj.abc.def.ghi.dt[1]);
+// console.log(arrObj.abc.def.ghi.dt[1] + ' ' + arrObj.abc.def.ghi.dt[3]);
 
 // const b = 'b';
 // console.log(b);

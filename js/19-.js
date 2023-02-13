@@ -78,5 +78,31 @@
 //         break;
 // };
 
+// Простое условие ввода пароля верный/неверный
+// let a = prompt('Password', '');
+// if (a == '144') {
+//     console.log('start');
+// } else {
+//     console.log('end');
+// }
+
+// Вывод hello world в тег <p>
+// let a = 'hello world';
+
+// let test = document.querySelector('.test').innerHTML = a;
+
+
+// Цикл с водом пароля
+// for (i=0; i<3; i++) {
+//     let password = prompt('Enter your password', '');
+//     if (password == '8f') {
+//         console.log('Start');
+//         break;
+//     } else {
+//         alert('Password not active');
+//     }
+// }
+
+
 
     
