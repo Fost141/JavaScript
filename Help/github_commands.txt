@@ -3,17 +3,21 @@ Git Commands
 !!! Установить Git - https://git-scm.com/
 
 Start:
-git init
+1-git init
+2-git config --global user.name "name" // Глобальная настройка имени
+3-git config --global user.email "example@gmail.com" // Глобальная настройка почты
+4-git add -A
+5-git commit -a -m"first commit" // Добавление коммита
+6-При подключении к новому репозиторию на GitHub команды там прописаны
+git push // Выкладывает на гитхаб
 git config --local user.name "Georg" // Локальная настройка имени
-git config --global user.name "Georg" // Глобальная настройка имени
 git config --local user.email "example@gmail.com" // Локальная настройка почты
+
 
 Work:
 git add -A
 git commit -a -m"Название коммита" // Добавление коммита
 git push // Выкладывает на гитхаб
-
-// При подключении к новому репозиторию на GitHub команды там прописаны
 
 
 Clone:
